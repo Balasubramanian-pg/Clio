@@ -1,0 +1,5 @@
+{
+  "name": "Script-to-Notebook AI",
+  "description": "Instantly convert raw Python scripts into fully documented Jupyter Notebooks using Gemini.",
+  "requestFramePermissions": []
+}
